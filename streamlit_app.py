@@ -78,53 +78,53 @@ st.markdown("""
 content_data = {
     labels[0]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label1_Image1",
-            "https://via.placeholder.com/300?text=Label1_Image2",
-            "https://via.placeholder.com/300?text=Label1_Image3"
+            "https://mblogthumb-phinf.pstatic.net/MjAxNzExMTJfMTQ4/MDAxNTEwNDY1ODcxNDgz.v7GQYdnCTq7TKZ4C2fg9RFT4xhS7A-0XEu_6Ml_bIp8g.rl9T4ZoLunqmL6_BVmMmFr-tSoSwfSL7Uk7_CUCGEBEg.PNG.chjc9/%EC%82%AC%EC%A7%841.png?type=w800",
+            "https://blog.kakaocdn.net/dn/cFavul/btsHmG6SsBn/Ibpv5hhvi1ZWt8liBvh4Pk/img.webp",
+            "https://i.namu.wiki/i/0NFzmGwF4yVTuV5O64FP2RZy8Uwlu6houJvyMTslwCZzl87pbKct36mbSEsTdHlDV6E-aVqXa5-gf994TnTxBQ.webp"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://youtu.be/Rqza4_o_dRg?si=WnR6Q7pI7ia6frk3",
+            "https://youtu.be/aUA9ziIyWwU?si=itTQ5RIWKJDywncv",
+            "https://youtu.be/SAdWoYiNURk?si=QAL6bT09-xPluebb"
         ],
         'texts': [
-            "치즈 불닭볶음면",
-            "불닭볶음면",
-            "까르보 물닭볶음면"
+            "치파오의 역사",
+            "치파오의 현황",
+            "치파오 만드는 방법"
         ]
     },
     labels[1]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label2_Image1",
-            "https://via.placeholder.com/300?text=Label2_Image2",
-            "https://via.placeholder.com/300?text=Label2_Image3"
+            "https://imgcp.aacdn.jp/img-a/600/auto/global-aaj-front/article/2018/02/5a96a97597e70_5a96a3c1c1347_209397231.jpg",
+            "https://i.namu.wiki/i/MEg9hKDLxkcWnaBtzmq9S_LNkmeeOyq_PwMNctcf6hLbB1FbNlVRwzNLoE1197aSdCPWR-LeYpflBVOwP5uTuw.webp",
+            "https://i.namu.wiki/i/AwbzlQcSWKLtpFyQzS6UcvfRa3zhcXdSQOkuqPGpC_d5u6miggbMkdSDEH_ZXdU2kSfWGitkpASQPY1pnRE33g.webp"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
+            "https://youtu.be/RZPPHzIlB1s?si=9IaFclihO1E8zabi",
+            "https://youtu.be/-fJ8YKnt-ZM?si=SPt8e-jj9j_IYln2",
+            "https://youtu.be/0q0xPmVUKNU?si=GbeYPvLVHsI5dajC"
         ],
         'texts': [
-            "짜파게티",
-            "사천 짜파게티",
-            "짜파게티"
+            "기모노의 역사",
+            "기모노의 현황",
+            "기모노 만드는 방법"
         ]
     },
     labels[2]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label3_Image1",
-            "https://via.placeholder.com/300?text=Label3_Image2",
-            "https://via.placeholder.com/300?text=Label3_Image3"
+            "https://image.thehyundai.com/static/3/7/5/74/A1/40A1745736_0_600.jpg",
+            "https://www.iwedding.co.kr/center/iweddingb/product/800_co_sl_k076_11928_1607323729_30410800_3232256099.jpg",
+            "https://m.hanboknam.com/web/product/big/202109/2a5d60c6a45aa35fb17976a1d372d330.jpg"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://youtu.be/M9gZyBtu7-w?si=A3GBweelgkEZZYyD",
+            "https://youtu.be/3e4oMGMZ5t8?si=tAAn7sINmR6__Z5b",
+            "https://youtu.be/gkKFgOttxD8?si=aYVG7xvTJgUfFs9S"
         ],
         'texts': [
-            "진짜장",
-            "진짬뽕",
-            "크림진짬뽕"
+            "한복의 역사",
+            "한복의 현황",
+            "한복 만드는 방법"
         ]
     }
 }
